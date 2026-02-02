@@ -1,0 +1,5 @@
+*.pas linguist-language=Delphi
+*.dpr linguist-language=Delphi
+*.dfm linguist-language=Delphi
+*.fmx linguist-language=Delphi
+*.inc linguist-language=Delphi
