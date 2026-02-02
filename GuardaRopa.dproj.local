@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/10/09 20:54:28.000.469,=D:\prg\D2012\Unit1.pas</Transaction>
+    <Transaction>2026/01/26 09:44:02.000.122,=D:\prg\D2012\Unit1.pas</Transaction>
+    <Transaction>2026/01/26 09:44:17.000.101,D:\prg\D2012\Unit1.dfm=D:\prg\D2012\GuardaRopa\main.dfm</Transaction>
+    <Transaction>2026/01/26 09:44:17.000.101,D:\prg\D2012\Unit1.pas=D:\prg\D2012\GuardaRopa\main.pas</Transaction>
+    <Transaction>2026/01/26 09:44:28.000.919,D:\prg\D2012\Project1.dproj=D:\prg\D2012\GuardaRopa\GuardaRopa.dproj</Transaction>
+    <Transaction>2026/01/26 14:52:23.000.335,=D:\prg\D2012\GuardaRopa\Unit1.pas</Transaction>
+    <Transaction>2026/01/26 15:00:40.000.324,D:\prg\D2012\GuardaRopa\Unit1.pas=D:\prg\D2012\GuardaRopa\dlgAsignarPercha.pas</Transaction>
+    <Transaction>2026/01/26 15:00:40.000.324,D:\prg\D2012\GuardaRopa\Unit1.dfm=D:\prg\D2012\GuardaRopa\dlgAsignarPercha.dfm</Transaction>
+    <Transaction>2026/01/26 17:56:06.000.681,=D:\prg\D2012\Libs\DelphiZXIngQRCode.pas</Transaction>
+  </Transactions>
+</BorlandProject>
